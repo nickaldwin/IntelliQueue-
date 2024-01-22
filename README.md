@@ -33,32 +33,43 @@ cd intellique
 
 Install dependencies:
 
-bash
+```bash
 
     composer install
-
+```
 Usage
 
-    Include Intellique in your PHP project:
+   ``` Include Intellique in your PHP project:
 
-    php
+```
+php
 
 require_once 'path/to/intellique/Intellique.php';
 
 Create an instance of the Intellique class:
 
-php
+```php
 
 $queue = new Intellique();
 
 Queue a task:
-
-php
+```
+```php
 
 $queue->enqueueTask('Task description', ['task' => 'parameters']);
 
 Process the queue:
-
+```
 php
-
+```
 $queue->processQueue();
+```
+
+## Recent projects:
+Check my recent projects here:
+
+**Onlyfriends:** https://github.com/nickaldwin/Onlyfriends
+
+**Cucina** https://github.com/nickaldwin/cucina
+
+
