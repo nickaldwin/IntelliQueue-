@@ -40,7 +40,7 @@ Install dependencies:
 
  ``` php Usage Include Intellique in your PHP project:
 
- ```
+ 
 
 
 ```php
