@@ -37,11 +37,12 @@ Install dependencies:
 
     composer install
 ```
-Usage
 
-   ``` Include Intellique in your PHP project:
+ ``` php Usage Include Intellique in your PHP project:
 
-```
+ ```
+
+
 ```php
 
 require_once 'path/to/intellique/Intellique.php';
