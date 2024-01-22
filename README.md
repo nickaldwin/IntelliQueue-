@@ -42,11 +42,12 @@ Usage
    ``` Include Intellique in your PHP project:
 
 ```
-php
+```php
 
 require_once 'path/to/intellique/Intellique.php';
 
 Create an instance of the Intellique class:
+```
 
 ```php
 
