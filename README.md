@@ -23,10 +23,9 @@ Intellique is a queuing system implemented in PHP. It helps manage and organize 
 1. Clone the repository:
 
    ```bash
+     Navigate to the project directory:
    git clone https://github.com/your-username/intellique.git
-
-    Navigate to the project directory:
-
+  ```
     bash
 
 cd intellique
@@ -38,9 +37,7 @@ Install dependencies:
     composer install
 ```
 
- ``` php Usage Include Intellique in your PHP project:
-
- 
+ Usage Include Intellique in your PHP project:
 
 
 ```php
