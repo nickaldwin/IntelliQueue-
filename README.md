@@ -33,12 +33,10 @@ cd intellique
 Install dependencies:
 
 ```bash
-
-    composer install
+composer install
 ```
 
  Usage Include Intellique in your PHP project:
-
 
 ```php
 
